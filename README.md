@@ -1,74 +1,51 @@
-<<<<<<< HEAD
-# MovieFlix
-=======
-# Getting Started with Create React App
+#  🎬 MovieFlix
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+✨ [Welcome to MovieFlix ](https://mr-ayman-movieflix.netlify.app/)✨
 
-In the project directory, you can run:
+This website provies the Latest Trending movies and Tv Series and filter out them by different genres and search your favourite movie or series and find the link to movie trailer🎬 and which OTT platform you can watch them.
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+# 📌 About the project :
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+This project is building for the purpose to fetch the rating and discover latest movies and tv series and find out where to watch them.Thissite is createdfor the purpose of entertainment and to create something fun out of react and TMDB API.
 
-### `npm test`
+#  📌Screenshots
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+ ## 🎬Homepage
+  -it consists of Trending,Movie,Search,Series pages with pagination and the content from the TMDB .
 
-### `npm run build`
+![image](https://user-images.githubusercontent.com/75611417/179359151-e796e474-7af3-4235-996a-55bf05995477.png)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## 🎬Movie
+ -it can sort the movie and Series By genre and show appropriate results
+![image](https://user-images.githubusercontent.com/75611417/179359582-40fab271-d189-405f-82a9-6f79ded750c1.png)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## 🎬Search
+it can search the input and get the series and movie according
+![image](https://user-images.githubusercontent.com/75611417/179359625-e97ba600-c1b0-4e7d-bc6a-e25858fce9ad.png)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## 🎬Model View
+-on clicking the card it display the information regarding the title description poster of the movie or series and provides which OTT platform have movie/series and  link to  watch of OTT the provider of the result.
+![image](https://user-images.githubusercontent.com/75611417/179359666-048f9746-98ad-400b-8902-1856fc6e9fbe.png)
 
-### `npm run eject`
+# 📌 Technologies used :
+  1.HTML <br />
+  2.CSS  <br />
+  3.JavaScript  <br />
+  4.React.js  <br />
+  5.Axios  <br />
+  6.Material UI  <br />
+  7.TMDB API  <br />
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+ # 📌 Contribution :
+Contribution to this repos are always welcome. You can always upgrade the UI, or fix any bug predefined in the issue section. <br />
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+For new contibution or feature : <br />
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+1.Open a new issue describing the feature.  <br />
+2.Add feature tag to this issue. <br />
+3.Get acceptance from the code maintainers. <br />
+4.Enjoy adding the feature <br />
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
->>>>>>> bc0cfa1 (Basic Files)
